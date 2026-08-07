@@ -41,11 +41,11 @@ It allows a user to play against the system with realistic cricket mechanics:
 ## 🛠️ Challenges Faced While Building
 
 - **Overs & Ball Counting**:  
-  -Getting the overs and ball display correct (`Ball co.cb`) was tricky and sometimes led to off-by-one errors in match summaries.
+  - Getting the overs and ball display correct (`Ball co.cb`) was tricky and sometimes led to off-by-one errors in match summaries.
 - **Super Over Logic**:  
-  -Designing tie-breaker conditions was challenging. At first, return values were inconsistent, which made it hard to decide the winner correctly.
+  - Designing tie-breaker conditions was challenging. At first, return values were inconsistent, which made it hard to decide the winner correctly.
 - **Testing Randomness**:  
-  -Since the system’s moves are random, reproducing test cases was difficult. Debugging outcomes required multiple runs.
+  - Since the system’s moves are random, reproducing test cases was difficult. Debugging outcomes required multiple runs.
 
 ---
 
